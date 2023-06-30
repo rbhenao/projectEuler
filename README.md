@@ -3,3 +3,8 @@
 
 ## Solutions
 Solutions to problems I have solved are posted under the **src** directory.
+
+#### Contact
+  - email [henao@henserver.com](http://www.henserver.com)
+  - linkedin [linkedin.com/in/ryan-henao-4173917b](https://www.linkedin.com/in/ryan-henao-4173917b/)
+  - website [henserver.com](http://www.henserver.com)
